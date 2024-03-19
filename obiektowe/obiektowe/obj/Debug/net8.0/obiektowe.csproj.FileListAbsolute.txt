@@ -1,0 +1,14 @@
+C:\Users\jakub\Desktop\STUDIA\MetodyRepo\Obiektowe\obiektowe\obiektowe\bin\Debug\net8.0\obiektowe.exe
+C:\Users\jakub\Desktop\STUDIA\MetodyRepo\Obiektowe\obiektowe\obiektowe\bin\Debug\net8.0\obiektowe.deps.json
+C:\Users\jakub\Desktop\STUDIA\MetodyRepo\Obiektowe\obiektowe\obiektowe\bin\Debug\net8.0\obiektowe.runtimeconfig.json
+C:\Users\jakub\Desktop\STUDIA\MetodyRepo\Obiektowe\obiektowe\obiektowe\bin\Debug\net8.0\obiektowe.dll
+C:\Users\jakub\Desktop\STUDIA\MetodyRepo\Obiektowe\obiektowe\obiektowe\bin\Debug\net8.0\obiektowe.pdb
+C:\Users\jakub\Desktop\STUDIA\MetodyRepo\Obiektowe\obiektowe\obiektowe\obj\Debug\net8.0\obiektowe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub\Desktop\STUDIA\MetodyRepo\Obiektowe\obiektowe\obiektowe\obj\Debug\net8.0\obiektowe.AssemblyInfoInputs.cache
+C:\Users\jakub\Desktop\STUDIA\MetodyRepo\Obiektowe\obiektowe\obiektowe\obj\Debug\net8.0\obiektowe.AssemblyInfo.cs
+C:\Users\jakub\Desktop\STUDIA\MetodyRepo\Obiektowe\obiektowe\obiektowe\obj\Debug\net8.0\obiektowe.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Desktop\STUDIA\MetodyRepo\Obiektowe\obiektowe\obiektowe\obj\Debug\net8.0\obiektowe.dll
+C:\Users\jakub\Desktop\STUDIA\MetodyRepo\Obiektowe\obiektowe\obiektowe\obj\Debug\net8.0\refint\obiektowe.dll
+C:\Users\jakub\Desktop\STUDIA\MetodyRepo\Obiektowe\obiektowe\obiektowe\obj\Debug\net8.0\obiektowe.pdb
+C:\Users\jakub\Desktop\STUDIA\MetodyRepo\Obiektowe\obiektowe\obiektowe\obj\Debug\net8.0\obiektowe.genruntimeconfig.cache
+C:\Users\jakub\Desktop\STUDIA\MetodyRepo\Obiektowe\obiektowe\obiektowe\obj\Debug\net8.0\ref\obiektowe.dll
