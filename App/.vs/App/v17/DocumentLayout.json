@@ -1,0 +1,462 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jakub\\Desktop\\STUDIA\\MetodyRepo\\Obiektowe\\App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7F425D-4E06-4EDB-B80F-0015129FF198}|App\\App.csproj|c:\\users\\jakub\\desktop\\studia\\metodyrepo\\obiektowe\\app\\app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC7F425D-4E06-4EDB-B80F-0015129FF198}|App\\App.csproj|solutionrelative:app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7F425D-4E06-4EDB-B80F-0015129FF198}|App\\App.csproj|c:\\users\\jakub\\desktop\\studia\\metodyrepo\\obiektowe\\app\\app\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7F425D-4E06-4EDB-B80F-0015129FF198}|App\\App.csproj|solutionrelative:app\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7F425D-4E06-4EDB-B80F-0015129FF198}|App\\App.csproj|c:\\users\\jakub\\desktop\\studia\\metodyrepo\\obiektowe\\app\\app\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7F425D-4E06-4EDB-B80F-0015129FF198}|App\\App.csproj|solutionrelative:app\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7F425D-4E06-4EDB-B80F-0015129FF198}|App\\App.csproj|c:\\users\\jakub\\desktop\\studia\\metodyrepo\\obiektowe\\app\\app\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7F425D-4E06-4EDB-B80F-0015129FF198}|App\\App.csproj|solutionrelative:app\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7F425D-4E06-4EDB-B80F-0015129FF198}|App\\App.csproj|c:\\users\\jakub\\desktop\\studia\\metodyrepo\\obiektowe\\app\\app\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7F425D-4E06-4EDB-B80F-0015129FF198}|App\\App.csproj|solutionrelative:app\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7F425D-4E06-4EDB-B80F-0015129FF198}|App\\App.csproj|c:\\users\\jakub\\desktop\\studia\\metodyrepo\\obiektowe\\app\\app\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7F425D-4E06-4EDB-B80F-0015129FF198}|App\\App.csproj|solutionrelative:app\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7F425D-4E06-4EDB-B80F-0015129FF198}|App\\App.csproj|c:\\users\\jakub\\desktop\\studia\\metodyrepo\\obiektowe\\app\\app\\models\\matchplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7F425D-4E06-4EDB-B80F-0015129FF198}|App\\App.csproj|solutionrelative:app\\models\\matchplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7F425D-4E06-4EDB-B80F-0015129FF198}|App\\App.csproj|c:\\users\\jakub\\desktop\\studia\\metodyrepo\\obiektowe\\app\\app\\models\\matchevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7F425D-4E06-4EDB-B80F-0015129FF198}|App\\App.csproj|solutionrelative:app\\models\\matchevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7F425D-4E06-4EDB-B80F-0015129FF198}|App\\App.csproj|c:\\users\\jakub\\desktop\\studia\\metodyrepo\\obiektowe\\app\\app\\models\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7F425D-4E06-4EDB-B80F-0015129FF198}|App\\App.csproj|solutionrelative:app\\models\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7F425D-4E06-4EDB-B80F-0015129FF198}|App\\App.csproj|c:\\users\\jakub\\desktop\\studia\\metodyrepo\\obiektowe\\app\\app\\models\\league.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7F425D-4E06-4EDB-B80F-0015129FF198}|App\\App.csproj|solutionrelative:app\\models\\league.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7F425D-4E06-4EDB-B80F-0015129FF198}|App\\App.csproj|c:\\users\\jakub\\desktop\\studia\\metodyrepo\\obiektowe\\app\\app\\models\\eventtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7F425D-4E06-4EDB-B80F-0015129FF198}|App\\App.csproj|solutionrelative:app\\models\\eventtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7F425D-4E06-4EDB-B80F-0015129FF198}|App\\App.csproj|c:\\users\\jakub\\desktop\\studia\\metodyrepo\\obiektowe\\app\\app\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7F425D-4E06-4EDB-B80F-0015129FF198}|App\\App.csproj|solutionrelative:app\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7F425D-4E06-4EDB-B80F-0015129FF198}|App\\App.csproj|c:\\users\\jakub\\desktop\\studia\\metodyrepo\\obiektowe\\app\\app\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7F425D-4E06-4EDB-B80F-0015129FF198}|App\\App.csproj|solutionrelative:app\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7F425D-4E06-4EDB-B80F-0015129FF198}|App\\App.csproj|c:\\users\\jakub\\desktop\\studia\\metodyrepo\\obiektowe\\app\\app\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7F425D-4E06-4EDB-B80F-0015129FF198}|App\\App.csproj|solutionrelative:app\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7F425D-4E06-4EDB-B80F-0015129FF198}|App\\App.csproj|c:\\users\\jakub\\desktop\\studia\\metodyrepo\\obiektowe\\app\\app\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7F425D-4E06-4EDB-B80F-0015129FF198}|App\\App.csproj|solutionrelative:app\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7F425D-4E06-4EDB-B80F-0015129FF198}|App\\App.csproj|c:\\users\\jakub\\desktop\\studia\\metodyrepo\\obiektowe\\app\\app\\views\\article\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC7F425D-4E06-4EDB-B80F-0015129FF198}|App\\App.csproj|solutionrelative:app\\views\\article\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7F425D-4E06-4EDB-B80F-0015129FF198}|App\\App.csproj|c:\\users\\jakub\\desktop\\studia\\metodyrepo\\obiektowe\\app\\app\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC7F425D-4E06-4EDB-B80F-0015129FF198}|App\\App.csproj|solutionrelative:app\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7F425D-4E06-4EDB-B80F-0015129FF198}|App\\App.csproj|c:\\users\\jakub\\desktop\\studia\\metodyrepo\\obiektowe\\app\\app\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC7F425D-4E06-4EDB-B80F-0015129FF198}|App\\App.csproj|solutionrelative:app\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7F425D-4E06-4EDB-B80F-0015129FF198}|App\\App.csproj|c:\\users\\jakub\\desktop\\studia\\metodyrepo\\obiektowe\\app\\app\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7F425D-4E06-4EDB-B80F-0015129FF198}|App\\App.csproj|solutionrelative:app\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7F425D-4E06-4EDB-B80F-0015129FF198}|App\\App.csproj|c:\\users\\jakub\\desktop\\studia\\metodyrepo\\obiektowe\\app\\app\\app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CC7F425D-4E06-4EDB-B80F-0015129FF198}|App\\App.csproj|solutionrelative:app\\app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7F425D-4E06-4EDB-B80F-0015129FF198}|App\\App.csproj|c:\\users\\jakub\\desktop\\studia\\metodyrepo\\obiektowe\\app\\app\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CC7F425D-4E06-4EDB-B80F-0015129FF198}|App\\App.csproj|solutionrelative:app\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7F425D-4E06-4EDB-B80F-0015129FF198}|App\\App.csproj|c:\\users\\jakub\\desktop\\studia\\metodyrepo\\obiektowe\\app\\app\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7F425D-4E06-4EDB-B80F-0015129FF198}|App\\App.csproj|solutionrelative:app\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7F425D-4E06-4EDB-B80F-0015129FF198}|App\\App.csproj|c:\\users\\jakub\\desktop\\studia\\metodyrepo\\obiektowe\\app\\app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC7F425D-4E06-4EDB-B80F-0015129FF198}|App\\App.csproj|solutionrelative:app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7F425D-4E06-4EDB-B80F-0015129FF198}|App\\App.csproj|c:\\users\\jakub\\desktop\\studia\\metodyrepo\\obiektowe\\app\\app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7F425D-4E06-4EDB-B80F-0015129FF198}|App\\App.csproj|solutionrelative:app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7F425D-4E06-4EDB-B80F-0015129FF198}|App\\App.csproj|c:\\users\\jakub\\desktop\\studia\\metodyrepo\\obiektowe\\app\\app\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC7F425D-4E06-4EDB-B80F-0015129FF198}|App\\App.csproj|solutionrelative:app\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7F425D-4E06-4EDB-B80F-0015129FF198}|App\\App.csproj|c:\\users\\jakub\\desktop\\studia\\metodyrepo\\obiektowe\\app\\app\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC7F425D-4E06-4EDB-B80F-0015129FF198}|App\\App.csproj|solutionrelative:app\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MatchPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\Desktop\\STUDIA\\MetodyRepo\\Obiektowe\\App\\App\\Models\\MatchPlayer.cs",
+              "RelativeDocumentMoniker": "App\\Models\\MatchPlayer.cs",
+              "ToolTip": "C:\\Users\\jakub\\Desktop\\STUDIA\\MetodyRepo\\Obiektowe\\App\\App\\Models\\MatchPlayer.cs",
+              "RelativeToolTip": "App\\Models\\MatchPlayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T17:50:56.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\Desktop\\STUDIA\\MetodyRepo\\Obiektowe\\App\\App\\Models\\Player.cs",
+              "RelativeDocumentMoniker": "App\\Models\\Player.cs",
+              "ToolTip": "C:\\Users\\jakub\\Desktop\\STUDIA\\MetodyRepo\\Obiektowe\\App\\App\\Models\\Player.cs",
+              "RelativeToolTip": "App\\Models\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T17:44:09.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\Desktop\\STUDIA\\MetodyRepo\\Obiektowe\\App\\App\\Models\\Position.cs",
+              "RelativeDocumentMoniker": "App\\Models\\Position.cs",
+              "ToolTip": "C:\\Users\\jakub\\Desktop\\STUDIA\\MetodyRepo\\Obiektowe\\App\\App\\Models\\Position.cs",
+              "RelativeToolTip": "App\\Models\\Position.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T17:49:34.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\Desktop\\STUDIA\\MetodyRepo\\Obiektowe\\App\\App\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "App\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\jakub\\Desktop\\STUDIA\\MetodyRepo\\Obiektowe\\App\\App\\Models\\Student.cs",
+              "RelativeToolTip": "App\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T16:45:25.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\Desktop\\STUDIA\\MetodyRepo\\Obiektowe\\App\\App\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "App\\Models\\Tag.cs",
+              "ToolTip": "C:\\Users\\jakub\\Desktop\\STUDIA\\MetodyRepo\\Obiektowe\\App\\App\\Models\\Tag.cs",
+              "RelativeToolTip": "App\\Models\\Tag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T17:37:04.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\Desktop\\STUDIA\\MetodyRepo\\Obiektowe\\App\\App\\Models\\Team.cs",
+              "RelativeDocumentMoniker": "App\\Models\\Team.cs",
+              "ToolTip": "C:\\Users\\jakub\\Desktop\\STUDIA\\MetodyRepo\\Obiektowe\\App\\App\\Models\\Team.cs",
+              "RelativeToolTip": "App\\Models\\Team.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T17:42:18.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\jakub\\Desktop\\STUDIA\\MetodyRepo\\Obiektowe\\App\\App\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "App\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\jakub\\Desktop\\STUDIA\\MetodyRepo\\Obiektowe\\App\\App\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "App\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T16:39:38.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MatchEvent.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\Desktop\\STUDIA\\MetodyRepo\\Obiektowe\\App\\App\\Models\\MatchEvent.cs",
+              "RelativeDocumentMoniker": "App\\Models\\MatchEvent.cs",
+              "ToolTip": "C:\\Users\\jakub\\Desktop\\STUDIA\\MetodyRepo\\Obiektowe\\App\\App\\Models\\MatchEvent.cs",
+              "RelativeToolTip": "App\\Models\\MatchEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T17:53:57.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Match.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\Desktop\\STUDIA\\MetodyRepo\\Obiektowe\\App\\App\\Models\\Match.cs",
+              "RelativeDocumentMoniker": "App\\Models\\Match.cs",
+              "ToolTip": "C:\\Users\\jakub\\Desktop\\STUDIA\\MetodyRepo\\Obiektowe\\App\\App\\Models\\Match.cs",
+              "RelativeToolTip": "App\\Models\\Match.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T17:58:23.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "League.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\Desktop\\STUDIA\\MetodyRepo\\Obiektowe\\App\\App\\Models\\League.cs",
+              "RelativeDocumentMoniker": "App\\Models\\League.cs",
+              "ToolTip": "C:\\Users\\jakub\\Desktop\\STUDIA\\MetodyRepo\\Obiektowe\\App\\App\\Models\\League.cs",
+              "RelativeToolTip": "App\\Models\\League.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T17:40:40.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EventType.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\Desktop\\STUDIA\\MetodyRepo\\Obiektowe\\App\\App\\Models\\EventType.cs",
+              "RelativeDocumentMoniker": "App\\Models\\EventType.cs",
+              "ToolTip": "C:\\Users\\jakub\\Desktop\\STUDIA\\MetodyRepo\\Obiektowe\\App\\App\\Models\\EventType.cs",
+              "RelativeToolTip": "App\\Models\\EventType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T17:57:29.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\Desktop\\STUDIA\\MetodyRepo\\Obiektowe\\App\\App\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "App\\Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\jakub\\Desktop\\STUDIA\\MetodyRepo\\Obiektowe\\App\\App\\Models\\Comment.cs",
+              "RelativeToolTip": "App\\Models\\Comment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T17:35:55.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\Desktop\\STUDIA\\MetodyRepo\\Obiektowe\\App\\App\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "App\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\jakub\\Desktop\\STUDIA\\MetodyRepo\\Obiektowe\\App\\App\\Models\\Category.cs",
+              "RelativeToolTip": "App\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T17:34:47.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\Desktop\\STUDIA\\MetodyRepo\\Obiektowe\\App\\App\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "App\\Models\\Author.cs",
+              "ToolTip": "C:\\Users\\jakub\\Desktop\\STUDIA\\MetodyRepo\\Obiektowe\\App\\App\\Models\\Author.cs",
+              "RelativeToolTip": "App\\Models\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T17:33:25.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\Desktop\\STUDIA\\MetodyRepo\\Obiektowe\\App\\App\\Models\\Article.cs",
+              "RelativeDocumentMoniker": "App\\Models\\Article.cs",
+              "ToolTip": "C:\\Users\\jakub\\Desktop\\STUDIA\\MetodyRepo\\Obiektowe\\App\\App\\Models\\Article.cs",
+              "RelativeToolTip": "App\\Models\\Article.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T14:05:32.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jakub\\Desktop\\STUDIA\\MetodyRepo\\Obiektowe\\App\\App\\Views\\Article\\Index.cshtml",
+              "RelativeDocumentMoniker": "App\\Views\\Article\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jakub\\Desktop\\STUDIA\\MetodyRepo\\Obiektowe\\App\\App\\Views\\Article\\Index.cshtml",
+              "RelativeToolTip": "App\\Views\\Article\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T14:00:49.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jakub\\Desktop\\STUDIA\\MetodyRepo\\Obiektowe\\App\\App\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "App\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jakub\\Desktop\\STUDIA\\MetodyRepo\\Obiektowe\\App\\App\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "App\\Views\\Student\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T16:55:51.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\jakub\\Desktop\\STUDIA\\MetodyRepo\\Obiektowe\\App\\App\\Views\\Student\\Details.cshtml",
+              "RelativeDocumentMoniker": "App\\Views\\Student\\Details.cshtml",
+              "ToolTip": "C:\\Users\\jakub\\Desktop\\STUDIA\\MetodyRepo\\Obiektowe\\App\\App\\Views\\Student\\Details.cshtml",
+              "RelativeToolTip": "App\\Views\\Student\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T17:25:57.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\jakub\\Desktop\\STUDIA\\MetodyRepo\\Obiektowe\\App\\App\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "App\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\jakub\\Desktop\\STUDIA\\MetodyRepo\\Obiektowe\\App\\App\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "App\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-20T16:37:43.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\Desktop\\STUDIA\\MetodyRepo\\Obiektowe\\App\\App\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "App\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\jakub\\Desktop\\STUDIA\\MetodyRepo\\Obiektowe\\App\\App\\AppDbContext.cs",
+              "RelativeToolTip": "App\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T19:51:32.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jakub\\Desktop\\STUDIA\\MetodyRepo\\Obiektowe\\App\\App\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "App\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jakub\\Desktop\\STUDIA\\MetodyRepo\\Obiektowe\\App\\App\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "App\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T13:55:52.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\Desktop\\STUDIA\\MetodyRepo\\Obiektowe\\App\\App\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "App\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\jakub\\Desktop\\STUDIA\\MetodyRepo\\Obiektowe\\App\\App\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "App\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T13:54:27.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "App",
+              "DocumentMoniker": "C:\\Users\\jakub\\Desktop\\STUDIA\\MetodyRepo\\Obiektowe\\App\\App\\App.csproj",
+              "RelativeDocumentMoniker": "App\\App.csproj",
+              "ToolTip": "C:\\Users\\jakub\\Desktop\\STUDIA\\MetodyRepo\\Obiektowe\\App\\App\\App.csproj",
+              "RelativeToolTip": "App\\App.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-20T19:46:10.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\Desktop\\STUDIA\\MetodyRepo\\Obiektowe\\App\\App\\Program.cs",
+              "RelativeDocumentMoniker": "App\\Program.cs",
+              "ToolTip": "C:\\Users\\jakub\\Desktop\\STUDIA\\MetodyRepo\\Obiektowe\\App\\App\\Program.cs",
+              "RelativeToolTip": "App\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T13:51:32.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\jakub\\Desktop\\STUDIA\\MetodyRepo\\Obiektowe\\App\\App\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "App\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\jakub\\Desktop\\STUDIA\\MetodyRepo\\Obiektowe\\App\\App\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "App\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T16:43:59.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\jakub\\Desktop\\STUDIA\\MetodyRepo\\Obiektowe\\App\\App\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "App\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\jakub\\Desktop\\STUDIA\\MetodyRepo\\Obiektowe\\App\\App\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "App\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T14:00:06.065Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

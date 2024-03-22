@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "AEuxhUd+npqRyddI1GXvSkRlozF7Ii45cAQD7Yeh6Iw=",
+  "Source": "App",
+  "BasePath": "_content/App",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "App\\wwwroot",
+      "Source": "App",
+      "ContentRoot": "C:\\Users\\jakub\\Desktop\\STUDIA\\MetodyRepo\\Obiektowe\\App\\App\\wwwroot\\",
+      "BasePath": "_content/App",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\jakub\\Desktop\\STUDIA\\MetodyRepo\\Obiektowe\\App\\App\\wwwroot\\css\\site.css",
+      "SourceId": "App",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jakub\\Desktop\\STUDIA\\MetodyRepo\\Obiektowe\\App\\App\\wwwroot\\",
+      "BasePath": "_content/App",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    }
+  ]
+}
